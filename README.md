@@ -4,6 +4,6 @@ Batch Translation: It's a feature where the code will use Threading to efficient
 
 Live Translation: It's a feature where the code will ask for two options, either translate from English to China or China to English. Once you've chosen, you may input the wording you would like to translate.
 
-How it Works: This code utilized Google's translate by accessing it through deep translator extension obtained within Python. To ensure that the Chinese translation is visible, I changed the font into chp-936, abling it to display Chinese words.
+How it Works: This code utilized Google's translate by accessing it through deep translator extension obtained within Python. To ensure that the Chinese translation is visible, I changed the font into chp-936, allowing it to display Chinese words.
 
 I hope this project can be useful. Thank you for your attention.
